@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **264 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **267 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -88,6 +88,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Contexto](https://contexto.me/) - Guess the secret word; each attempt comes back ranked by semantic closeness.
 - [Crossclimb](https://www.linkedin.com/games/crossclimb) - Solve a ladder of one-letter-apart words, then reorder the rungs into a hidden sequence.
 - 🟠 [HotandCold](https://www.reddit.com/r/HotandCold/) - Semantic hot-and-cold guessing played out in a Reddit post, with everyone's guesses visible.
+- [Kinship](https://playkinship.com/) - Four clues share one hidden word; every guess is ranked by how close it sits to the word at their centre.
 - [Pedantle](https://pedantle.certitudes.org/) - Uncover a hidden Wikipedia article by guessing words, with semantic near-misses highlighted.
 - [Pimantle](https://semantle.pimanrul.es/) - Semantle plotted on a two-dimensional map so you can see your guesses closing in.
 - [Pinpoint](https://www.linkedin.com/games/pinpoint) - Name the category from clues revealed one at a time — the fewer you need, the better.
@@ -190,6 +191,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Shikaku of the Day](https://shikakuofthe.day/) - Cut a grid into rectangles so that each one contains exactly one number equal to its area.
 - [Sudoku (NYT)](https://www.nytimes.com/puzzles/sudoku) - Easy, medium and hard grids refreshed every day, free to play.
 - [Tango](https://www.linkedin.com/games/tango) - Balance suns and moons across a grid under equality and difference constraints.
+- [WitLocked Daily Lock](https://witlocked.com/puzzles/daily-lock) - Search an illustrated story scene for clues and connect them to crack a new escape-room-style lock each day.
 - [Zebra Puzzles](https://www.zebrapuzzles.com/) - The classic "who owns the fish" constraint puzzle, generated fresh each day.
 - [Zip](https://www.linkedin.com/games/zip) - Draw one continuous path that hits every numbered dot in order and fills the board.
 
@@ -319,6 +321,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 
 - [Artle](https://www.nga.gov/artle.html) - The National Gallery of Art shows you four works; name the artist who made them.
 - [Angle](https://angle.wtf/) - Estimate the angle in degrees, with warmer and colder feedback.
+- [Ballpark](https://ballparkdaily.com/) - Answer five daily number questions with a range on a log slider; a tighter range that still contains the answer scores more.
 - [Chroma](https://robson.plus/chroma) - Reproduce the target colour by mixing your own.
 - [Colorecall](https://www.colorecall.com/) - Two shapes, two colors, one intense memory challenge testing your color recall.
 - [Colorfle](https://colorfle.com/) - Guess the exact colour by blending three of your own in Wordle-style rounds.

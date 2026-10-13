@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 264,
+    "games": 267,
     "categories": 18,
     "reddit": 20
   },
@@ -439,6 +439,15 @@
       "category": "word-connections",
       "platform": "reddit",
       "description": "Semantic hot-and-cold guessing played out in a Reddit post, with everyone's guesses visible.",
+      "tags": []
+    },
+    {
+      "id": "kinship",
+      "name": "Kinship",
+      "url": "https://playkinship.com/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Four clues share one hidden word; every guess is ranked by how close it sits to the word at their centre.",
       "tags": []
     },
     {
@@ -1214,6 +1223,15 @@
       "category": "logic",
       "platform": "web",
       "description": "Balance suns and moons across a grid under equality and difference constraints.",
+      "tags": []
+    },
+    {
+      "id": "witlocked-daily-lock",
+      "name": "WitLocked Daily Lock",
+      "url": "https://witlocked.com/puzzles/daily-lock",
+      "category": "logic",
+      "platform": "web",
+      "description": "Search an illustrated story scene for clues and connect them to crack a new escape-room-style lock each day.",
       "tags": []
     },
     {
@@ -2047,6 +2065,15 @@
       "category": "visual",
       "platform": "web",
       "description": "Estimate the angle in degrees, with warmer and colder feedback.",
+      "tags": []
+    },
+    {
+      "id": "ballpark",
+      "name": "Ballpark",
+      "url": "https://ballparkdaily.com/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Answer five daily number questions with a range on a log slider; a tighter range that still contains the answer scores more.",
       "tags": []
     },
     {
