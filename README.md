@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **259 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **264 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -82,6 +82,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 
 - [Connections](https://www.nytimes.com/games/connections) - Sort sixteen words into four hidden groups of four; four mistakes and you are out.
 - [Cemantle](https://cemantle.certitudes.org/) - Semantle's hot-and-cold sibling, reporting temperature instead of a raw rank.
+- [ClueRoll](https://clueroll.com/) - Find the word linking three clues, then roll lettered cubes into place so their top faces spell the answer.
 - [Combinations](https://combinations.org/) - Find the word that pairs with every one of the given words to form a compound.
 - [Conexo](https://conexo.ws/en) - Connections-style grouping puzzle with a generous daily archive.
 - [Contexto](https://contexto.me/) - Guess the secret word; each attempt comes back ranked by semantic closeness.
@@ -142,6 +143,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Strands](https://www.nytimes.com/games/strands) - A themed word search where the words snake in any direction and one spangram ties it together.
 - 🟠 [Syllo](https://www.reddit.com/r/syllo/) - Build the day's words out of syllable blocks instead of letters — a genuinely fresh mechanic.
 - [Typeshift](https://www.puzzmo.com/play/typeshift) - Slide columns of letters up and down until every letter has been used in a word.
+- [Wordchute](https://wordchute.com/) - Connect touching letters to make words while planning around a visible queue of falling letters, until all 32 tiles are cleared.
 - 🟠 [WordDash](https://www.reddit.com/r/WordDash/) - Spelling Bee crossed with Strands: hunt themed words out of a shared letter set against the clock.
 - [Wordflower](https://www.latimes.com/games/wordflower) - The LA Times' free Spelling Bee equivalent, with a daily word target.
 - 🟠 [WordSeekr](https://www.reddit.com/r/WordSeekr/) - A word search that reveals a hidden quotation once you have found everything else.
@@ -238,6 +240,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [MeloGuessr](https://meloguessr.com/) - GeoGuessr's format applied to sheet music and melodies.
 - [Perfect Pitch Puzzle](https://www.perfectpitchpuzzle.com/) - An ear-training daily that turns interval recognition into a scored puzzle.
 - [Relatle](https://relatle.io/) - Travel from one artist to another through related-artist links in as few hops as possible.
+- [Sound of Sliver](https://soundofsliver.com/) - Name ten tunes on a daily theme, each from a 300ms slice; a wrong pick buys a longer listen for fewer points.
 - [Spotle](https://spotle.io/) - Deduce the mystery artist from genre, popularity, debut year and country clues.
 
 ## 🎬 Movies & TV
@@ -300,6 +303,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [FoodGuessr](https://www.foodguessr.com/) - Name the country a dish comes from, three plates a day.
 - [Google Feud](https://googlefeud.com/) - Complete the search query the way the rest of the internet did.
 - [Jeopardy! J6](https://www.jeopardy.com/play/j6) - Six official Jeopardy! clues a day, in ascending difficulty.
+- [Nanizo](https://nanizo.com/en/daily/) - Ten trivia questions a day, the same for everyone and one try only, scored on accuracy and speed with world and country leaderboards.
 - [On the Record](https://www.washingtonpost.com/news-quiz) - The Washington Post's daily news quiz.
 - [Rankle](https://www.rankle.app/) - Put five things in the correct order — by size, date, price or whatever the day demands.
 - [Revealed](https://www.britannica.com/games/revealed) - Britannica's daily: an image is uncovered piece by piece as the clues get easier.
@@ -324,6 +328,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Guess The House](https://guessthe.house/) - Estimate what a real listed property sold for.
 - [Guess The Logo](https://guessthelogo.wtf/) - Name the brand from a partially obscured logo.
 - [Hexcodle](https://www.hexcodle.com/) - Guess the hex code of a displayed colour, digit by digit.
+- 💰 [How expensive?](https://howexpensive.roughly.is/) - Guess what an item cost in a given country and year, then see the official historical price and how far off you were.
 - [Picsey](https://picsey.io/) - Identify an image from a handful of colour-sampled pixels.
 - [Play Higher Lower](https://playhigherlower.com/daily) - Guess which of two real-world numbers is bigger, from box office grosses to country populations, across a shared daily board.
 - [Scrandle](https://scrandle.com/) - Two foods head to head, and you have to call which one packs more calories.

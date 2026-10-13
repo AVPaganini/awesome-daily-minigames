@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 259,
+    "games": 264,
     "categories": 18,
     "reddit": 20
   },
@@ -385,6 +385,15 @@
       "category": "word-connections",
       "platform": "web",
       "description": "Semantle's hot-and-cold sibling, reporting temperature instead of a raw rank.",
+      "tags": []
+    },
+    {
+      "id": "clueroll",
+      "name": "ClueRoll",
+      "url": "https://clueroll.com/",
+      "category": "word-connections",
+      "platform": "web",
+      "description": "Find the word linking three clues, then roll lettered cubes into place so their top faces spell the answer.",
       "tags": []
     },
     {
@@ -853,6 +862,15 @@
       "category": "word-grids",
       "platform": "web",
       "description": "Slide columns of letters up and down until every letter has been used in a word.",
+      "tags": []
+    },
+    {
+      "id": "wordchute",
+      "name": "Wordchute",
+      "url": "https://wordchute.com/",
+      "category": "word-grids",
+      "platform": "web",
+      "description": "Connect touching letters to make words while planning around a visible queue of falling letters, until all 32 tiles are cleared.",
       "tags": []
     },
     {
@@ -1530,6 +1548,17 @@
       "tags": []
     },
     {
+      "id": "sound-of-sliver",
+      "name": "Sound of Sliver",
+      "url": "https://soundofsliver.com/",
+      "category": "music",
+      "platform": "web",
+      "description": "Name ten tunes on a daily theme, each from a 300ms slice; a wrong pick buys a longer listen for fewer points.",
+      "tags": [
+        "audio"
+      ]
+    },
+    {
       "id": "spotle",
       "name": "Spotle",
       "url": "https://spotle.io/",
@@ -1922,6 +1951,15 @@
       "tags": []
     },
     {
+      "id": "nanizo",
+      "name": "Nanizo",
+      "url": "https://nanizo.com/en/daily/",
+      "category": "trivia",
+      "platform": "web",
+      "description": "Ten trivia questions a day, the same for everyone and one try only, scored on accuracy and speed with world and country leaderboards.",
+      "tags": []
+    },
+    {
       "id": "on-the-record",
       "name": "On the Record",
       "url": "https://www.washingtonpost.com/news-quiz",
@@ -2091,6 +2129,17 @@
       "platform": "web",
       "description": "Guess the hex code of a displayed colour, digit by digit.",
       "tags": []
+    },
+    {
+      "id": "how-expensive",
+      "name": "How expensive?",
+      "url": "https://howexpensive.roughly.is/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Guess what an item cost in a given country and year, then see the official historical price and how far off you were.",
+      "tags": [
+        "paywalled"
+      ]
     },
     {
       "id": "picsey",
