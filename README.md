@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **268 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **272 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -144,6 +144,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Stepwords](https://stepwords.xyz/) - Each answer is the previous one plus a letter, stacked into a staircase.
 - [Strands](https://www.nytimes.com/games/strands) - A themed word search where the words snake in any direction and one spangram ties it together.
 - 🟠 [Syllo](https://www.reddit.com/r/syllo/) - Build the day's words out of syllable blocks instead of letters — a genuinely fresh mechanic.
+- [Triplet](https://triplet.daily-game.page/) - Find the three letters that complete all the words.
 - [Typeshift](https://www.puzzmo.com/play/typeshift) - Slide columns of letters up and down until every letter has been used in a word.
 - [Wordchute](https://wordchute.com/) - Connect touching letters to make words while planning around a visible queue of falling letters, until all 32 tiles are cleared.
 - 🟠 [WordDash](https://www.reddit.com/r/WordDash/) - Spelling Bee crossed with Strands: hunt themed words out of a shared letter set against the clock.
@@ -174,6 +175,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Blind Corners](https://arkai.win/games/blind-corners/) - Fire a beam of light into a hidden grid of mirrors and mark where they must be, judged only by where each beam comes back out.
 - 🟠 [Blokkit](https://www.reddit.com/r/Blokkit/) - Grab, rotate and place the day's block set so everything fits with nothing left over.
 - [BrainBashers Daily Puzzle](https://www.brainbashers.com/dailypuzzle.asp) - A long-running rotation of Slitherlink, Hitori, Futoshiki and a dozen other pencil puzzles.
+- [Campsite](https://campsite.daily-game.page/) - Pitch a tent beside every tree to match the counts.
 - [Clues by Sam](https://cluesbysam.com/) - A daily deduction grid where each clue eliminates suspects, houses or objects.
 - [Daily Akari](https://dailyakari.com/) - Light up every square of a grid without letting two bulbs see each other.
 - [Domino Fit](https://dominofit.isotropic.us/) - Pack dominoes into an awkward grid so that the numbers line up correctly.
@@ -190,7 +192,9 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Queens](https://www.linkedin.com/games/queens) - Place one crown per row, column and colour region without any two touching.
 - [Regexle](https://regexle.com/) - A hexagonal crossword where every line is a regular expression you have to satisfy.
 - [Shikaku of the Day](https://shikakuofthe.day/) - Cut a grid into rectangles so that each one contains exactly one number equal to its area.
+- [Shinro Garden](https://shinro-garden.daily-game.page/) - Plant 12 flowers using the arrow and count clues.
 - [Sudoku (NYT)](https://www.nytimes.com/puzzles/sudoku) - Easy, medium and hard grids refreshed every day, free to play.
+- [Sunset](https://sunset.daily-game.page/) - Find the six sets hidden in the board.
 - [Tango](https://www.linkedin.com/games/tango) - Balance suns and moons across a grid under equality and difference constraints.
 - [WitLocked Daily Lock](https://witlocked.com/puzzles/daily-lock) - Search an illustrated story scene for clues and connect them to crack a new escape-room-style lock each day.
 - [Zebra Puzzles](https://www.zebrapuzzles.com/) - The classic "who owns the fish" constraint puzzle, generated fresh each day.
