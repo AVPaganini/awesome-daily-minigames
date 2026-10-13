@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 267,
+    "games": 268,
     "categories": 18,
     "reddit": 20
   },
@@ -601,6 +601,15 @@
       "category": "crosswords",
       "platform": "reddit",
       "description": "A hand-built daily mini crossword served straight into your Reddit feed.",
+      "tags": []
+    },
+    {
+      "id": "double-cross",
+      "name": "Double Cross",
+      "url": "https://everhall.ca/",
+      "category": "crosswords",
+      "platform": "web",
+      "description": "A 7x7 daily crossword where each card clues two same-length slots at once; the crossing letters decide which answer goes where.",
       "tags": []
     },
     {

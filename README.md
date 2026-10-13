@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **267 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **268 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -110,6 +110,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Crosshare](https://crosshare.org/) - Free, open-source, ad-light home for community-built crosswords including a daily mini.
 - [Crossword Club](https://crosswordclub.com/puzzles/) - A daily indie crossword from rotating constructors, free to solve in the browser.
 - 🟠 [CrosswordChef](https://www.reddit.com/r/CrosswordChef/) - A hand-built daily mini crossword served straight into your Reddit feed.
+- [Double Cross](https://everhall.ca/) - A 7x7 daily crossword where each card clues two same-length slots at once; the crossing letters decide which answer goes where.
 - [Guardian Cryptic Crossword](https://www.theguardian.com/crosswords/series/cryptic) - The daily British cryptic, free and unapologetically difficult.
 - [Guardian Quick Crossword](https://www.theguardian.com/crosswords/series/quick) - Definition-only clues and a small grid; a good on-ramp before the cryptic.
 - [LA Times Mini Crossword](https://www.latimes.com/games/mini-crossword) - A free mini in the same shape as the NYT one, no account required.
