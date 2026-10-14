@@ -1,7 +1,7 @@
 {
   "generated": "run `npm run build` to regenerate — do not edit by hand",
   "counts": {
-    "games": 272,
+    "games": 273,
     "categories": 18,
     "reddit": 20
   },
@@ -2212,6 +2212,15 @@
       "tags": [
         "paywalled"
       ]
+    },
+    {
+      "id": "meccha-chameleon",
+      "name": "Meccha Chameleon",
+      "url": "https://kmufti.com/chameleon/",
+      "category": "visual",
+      "platform": "web",
+      "description": "Find a blank 3D figure camouflaged somewhere in the daily photo, scored on how fast and in how few clicks you spot it.",
+      "tags": []
     },
     {
       "id": "picsey",
