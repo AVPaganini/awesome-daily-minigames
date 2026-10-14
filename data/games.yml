@@ -191,6 +191,12 @@
   platform: web
   description: Semantle's hot-and-cold sibling, reporting temperature instead of a raw rank.
 
+- name: ClueRoll
+  url: https://clueroll.com/
+  category: word-connections
+  platform: web
+  description: Find the word linking three clues, then roll lettered cubes into place so their top faces spell the answer.
+
 - name: Combinations
   url: https://combinations.org/
   category: word-connections
@@ -220,6 +226,12 @@
   category: word-connections
   platform: reddit
   description: Semantic hot-and-cold guessing played out in a Reddit post, with everyone's guesses visible.
+
+- name: Kinship
+  url: https://playkinship.com/
+  category: word-connections
+  platform: web
+  description: Four clues share one hidden word; every guess is ranked by how close it sits to the word at their centre.
 
 - name: Pedantle
   url: https://pedantle.certitudes.org/
@@ -321,6 +333,12 @@
   category: crosswords
   platform: reddit
   description: A hand-built daily mini crossword served straight into your Reddit feed.
+
+- name: Double Cross
+  url: https://everhall.ca/
+  category: crosswords
+  platform: web
+  description: A 7x7 daily crossword where each card clues two same-length slots at once; the crossing letters decide which answer goes where.
 
 - name: Guardian Cryptic Crossword
   url: https://www.theguardian.com/crosswords/series/cryptic
@@ -495,11 +513,23 @@
   platform: reddit
   description: Build the day's words out of syllable blocks instead of letters — a genuinely fresh mechanic.
 
+- name: Triplet
+  url: https://triplet.daily-game.page/
+  category: word-grids
+  platform: web
+  description: Find the three letters that complete all the words.
+
 - name: Typeshift
   url: https://www.puzzmo.com/play/typeshift
   category: word-grids
   platform: web
   description: Slide columns of letters up and down until every letter has been used in a word.
+
+- name: Wordchute
+  url: https://wordchute.com/
+  category: word-grids
+  platform: web
+  description: Connect touching letters to make words while planning around a visible queue of falling letters, until all 32 tiles are cleared.
 
 - name: WordDash
   url: https://www.reddit.com/r/WordDash/
@@ -520,18 +550,24 @@
   description: A word search that reveals a hidden quotation once you have found everything else.
 
 # ---------------------------------------------------------------- numbers-math
-- name: Nerdle
-  url: https://nerdlegame.com/
+- name: Numgrove
+  url: https://numgrove.com/
   category: numbers-math
   platform: web
-  description: Wordle for equations — guess the hidden eight-character sum, operators included.
-  tags: [classic]
+  description: A daily math puzzle where you grow a factor/sum tree to reach the target number.
 
 - name: Mathler
   url: https://www.mathler.com/
   category: numbers-math
   platform: web
   description: Find the hidden calculation that produces the given target number.
+
+- name: Nerdle
+  url: https://nerdlegame.com/
+  category: numbers-math
+  platform: web
+  description: Wordle for equations — guess the hidden eight-character sum, operators included.
+  tags: [classic]
 
 - name: Numble
   url: https://numble.wtf/
@@ -571,6 +607,13 @@
   description: Place dominoes so every marked region satisfies its sum, equality or inequality rule.
   tags: [nyt]
 
+- name: ArrowGame
+  url: https://arrowgame.app/
+  category: logic
+  platform: web
+  description: Tap arrows off the board only once their exit path is clear, with a shared daily Boss puzzle alongside a 1,000-level campaign.
+  tags: [unlimited]
+
 - name: Balance Grid
   url: https://playbalancegrid.com/daily/
   category: logic
@@ -602,6 +645,12 @@
   platform: web
   description: A long-running rotation of Slitherlink, Hitori, Futoshiki and a dozen other pencil puzzles.
   tags: [classic]
+
+- name: Campsite
+  url: https://campsite.daily-game.page/
+  category: logic
+  platform: web
+  description: Pitch a tent beside every tree to match the counts.
 
 - name: Clues by Sam
   url: https://cluesbysam.com/
@@ -702,6 +751,12 @@
   platform: web
   description: Cut a grid into rectangles so that each one contains exactly one number equal to its area.
 
+- name: Shinro Garden
+  url: https://shinro-garden.daily-game.page/
+  category: logic
+  platform: web
+  description: Plant 12 flowers using the arrow and count clues.
+
 - name: Sudoku (NYT)
   url: https://www.nytimes.com/puzzles/sudoku
   category: logic
@@ -709,11 +764,23 @@
   description: Easy, medium and hard grids refreshed every day, free to play.
   tags: [nyt, classic]
 
+- name: Sunset
+  url: https://sunset.daily-game.page/
+  category: logic
+  platform: web
+  description: Find the six sets hidden in the board.
+
 - name: Tango
   url: https://www.linkedin.com/games/tango
   category: logic
   platform: web
   description: Balance suns and moons across a grid under equality and difference constraints.
+
+- name: WitLocked Daily Lock
+  url: https://witlocked.com/puzzles/daily-lock
+  category: logic
+  platform: web
+  description: Search an illustrated story scene for clues and connect them to crack a new escape-room-style lock each day.
 
 - name: Zebra Puzzles
   url: https://www.zebrapuzzles.com/
@@ -935,6 +1002,13 @@
   category: music
   platform: web
   description: Travel from one artist to another through related-artist links in as few hops as possible.
+
+- name: Sound of Sliver
+  url: https://soundofsliver.com/
+  category: music
+  platform: web
+  description: Name ten tunes on a daily theme, each from a 300ms slice; a wrong pick buys a longer listen for fewer points.
+  tags: [audio]
 
 - name: Spotle
   url: https://spotle.io/
@@ -1199,6 +1273,12 @@
   platform: web
   description: Six official Jeopardy! clues a day, in ascending difficulty.
 
+- name: Nanizo
+  url: https://nanizo.com/en/daily/
+  category: trivia
+  platform: web
+  description: Ten trivia questions a day, the same for everyone and one try only, scored on accuracy and speed with world and country leaderboards.
+
 - name: On the Record
   url: https://www.washingtonpost.com/news-quiz
   category: trivia
@@ -1222,6 +1302,12 @@
   category: trivia
   platform: web
   description: One lateral-thinking riddle a day, with hints if you get stuck.
+
+- name: Shople
+  url: https://playshople.com/
+  category: trivia
+  platform: web
+  description: Guess the mystery brand in ten tries; each guess compares headquarters, founding year, industry, revenue and more against the answer.
 
 - name: Thrice
   url: https://thrice.geekswhodrink.com/
@@ -1253,6 +1339,12 @@
   category: visual
   platform: web
   description: Estimate the angle in degrees, with warmer and colder feedback.
+
+- name: Ballpark
+  url: https://ballparkdaily.com/
+  category: visual
+  platform: web
+  description: Answer five daily number questions with a range on a log slider; a tighter range that still contains the answer scores more.
 
 - name: Chroma
   url: https://robson.plus/chroma
@@ -1308,6 +1400,13 @@
   platform: web
   description: Guess the hex code of a displayed colour, digit by digit.
 
+- name: How expensive?
+  url: https://howexpensive.roughly.is/
+  category: visual
+  platform: web
+  description: Guess what an item cost in a given country and year, then see the official historical price and how far off you were.
+  tags: [paywalled]
+
 - name: Meccha Chameleon
   url: https://kmufti.com/chameleon/
   category: visual
@@ -1331,6 +1430,13 @@
   category: visual
   platform: web
   description: Two foods head to head, and you have to call which one packs more calories.
+
+- name: SizeGuess
+  url: https://sizeguess.com/
+  category: visual
+  platform: web
+  description: Resize real-world objects against a known reference over five daily rounds, then see the true measurement and how close you got.
+  tags: [unlimited]
 
 - name: Spot the Differences
   url: https://www.spot-differences.com/

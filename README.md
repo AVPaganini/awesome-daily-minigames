@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **255 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **272 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -82,11 +82,13 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 
 - [Connections](https://www.nytimes.com/games/connections) - Sort sixteen words into four hidden groups of four; four mistakes and you are out.
 - [Cemantle](https://cemantle.certitudes.org/) - Semantle's hot-and-cold sibling, reporting temperature instead of a raw rank.
+- [ClueRoll](https://clueroll.com/) - Find the word linking three clues, then roll lettered cubes into place so their top faces spell the answer.
 - [Combinations](https://combinations.org/) - Find the word that pairs with every one of the given words to form a compound.
 - [Conexo](https://conexo.ws/en) - Connections-style grouping puzzle with a generous daily archive.
 - [Contexto](https://contexto.me/) - Guess the secret word; each attempt comes back ranked by semantic closeness.
 - [Crossclimb](https://www.linkedin.com/games/crossclimb) - Solve a ladder of one-letter-apart words, then reorder the rungs into a hidden sequence.
 - 🟠 [HotandCold](https://www.reddit.com/r/HotandCold/) - Semantic hot-and-cold guessing played out in a Reddit post, with everyone's guesses visible.
+- [Kinship](https://playkinship.com/) - Four clues share one hidden word; every guess is ranked by how close it sits to the word at their centre.
 - [Pedantle](https://pedantle.certitudes.org/) - Uncover a hidden Wikipedia article by guessing words, with semantic near-misses highlighted.
 - [Pimantle](https://semantle.pimanrul.es/) - Semantle plotted on a two-dimensional map so you can see your guesses closing in.
 - [Pinpoint](https://www.linkedin.com/games/pinpoint) - Name the category from clues revealed one at a time — the fewer you need, the better.
@@ -108,6 +110,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Crosshare](https://crosshare.org/) - Free, open-source, ad-light home for community-built crosswords including a daily mini.
 - [Crossword Club](https://crosswordclub.com/puzzles/) - A daily indie crossword from rotating constructors, free to solve in the browser.
 - 🟠 [CrosswordChef](https://www.reddit.com/r/CrosswordChef/) - A hand-built daily mini crossword served straight into your Reddit feed.
+- [Double Cross](https://everhall.ca/) - A 7x7 daily crossword where each card clues two same-length slots at once; the crossing letters decide which answer goes where.
 - [Guardian Cryptic Crossword](https://www.theguardian.com/crosswords/series/cryptic) - The daily British cryptic, free and unapologetically difficult.
 - [Guardian Quick Crossword](https://www.theguardian.com/crosswords/series/quick) - Definition-only clues and a small grid; a good on-ramp before the cryptic.
 - [LA Times Mini Crossword](https://www.latimes.com/games/mini-crossword) - A free mini in the same shape as the NYT one, no account required.
@@ -141,7 +144,9 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Stepwords](https://stepwords.xyz/) - Each answer is the previous one plus a letter, stacked into a staircase.
 - [Strands](https://www.nytimes.com/games/strands) - A themed word search where the words snake in any direction and one spangram ties it together.
 - 🟠 [Syllo](https://www.reddit.com/r/syllo/) - Build the day's words out of syllable blocks instead of letters — a genuinely fresh mechanic.
+- [Triplet](https://triplet.daily-game.page/) - Find the three letters that complete all the words.
 - [Typeshift](https://www.puzzmo.com/play/typeshift) - Slide columns of letters up and down until every letter has been used in a word.
+- [Wordchute](https://wordchute.com/) - Connect touching letters to make words while planning around a visible queue of falling letters, until all 32 tiles are cleared.
 - 🟠 [WordDash](https://www.reddit.com/r/WordDash/) - Spelling Bee crossed with Strands: hunt themed words out of a shared letter set against the clock.
 - [Wordflower](https://www.latimes.com/games/wordflower) - The LA Times' free Spelling Bee equivalent, with a daily word target.
 - 🟠 [WordSeekr](https://www.reddit.com/r/WordSeekr/) - A word search that reveals a hidden quotation once you have found everything else.
@@ -150,8 +155,9 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 
 > Equations, arithmetic and number sense, one puzzle a day.
 
-- [Nerdle](https://nerdlegame.com/) - Wordle for equations — guess the hidden eight-character sum, operators included.
+- [Numgrove](https://numgrove.com/) - A daily math puzzle where you grow a factor/sum tree to reach the target number.
 - [Mathler](https://www.mathler.com/) - Find the hidden calculation that produces the given target number.
+- [Nerdle](https://nerdlegame.com/) - Wordle for equations — guess the hidden eight-character sum, operators included.
 - [Numble](https://numble.wtf/) - Route through a grid of numbers and operators to hit the day's target.
 - [Numle](https://martintale.com/numle/) - Wordle but with numbers where you guess the 5-digit number in 6 or less tries.
 - [Primel](https://converged.yt/primel/) - Wordle where every guess and the answer must be a five-digit prime.
@@ -163,11 +169,13 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 > Sudoku, nonograms, pathfinders and pure deduction grids.
 
 - [Pips](https://www.nytimes.com/games/pips) - Place dominoes so every marked region satisfies its sum, equality or inequality rule.
+- [ArrowGame](https://arrowgame.app/) - Tap arrows off the board only once their exit path is clear, with a shared daily Boss puzzle alongside a 1,000-level campaign.
 - [Balance Grid](https://playbalancegrid.com/daily/) - Fill a daily 6x6 grid with three Light and three Dark cells per line, no triples and no duplicate lines; each puzzle has exactly one solution.
 - 🟠 [Binarygrid](https://www.reddit.com/r/Binarygrid/) - Binairo-style number logic — fill the grid with two symbols under balance and adjacency rules.
 - [Blind Corners](https://arkai.win/games/blind-corners/) - Fire a beam of light into a hidden grid of mirrors and mark where they must be, judged only by where each beam comes back out.
 - 🟠 [Blokkit](https://www.reddit.com/r/Blokkit/) - Grab, rotate and place the day's block set so everything fits with nothing left over.
 - [BrainBashers Daily Puzzle](https://www.brainbashers.com/dailypuzzle.asp) - A long-running rotation of Slitherlink, Hitori, Futoshiki and a dozen other pencil puzzles.
+- [Campsite](https://campsite.daily-game.page/) - Pitch a tent beside every tree to match the counts.
 - [Clues by Sam](https://cluesbysam.com/) - A daily deduction grid where each clue eliminates suspects, houses or objects.
 - [Daily Akari](https://dailyakari.com/) - Light up every square of a grid without letting two bulbs see each other.
 - [Domino Fit](https://dominofit.isotropic.us/) - Pack dominoes into an awkward grid so that the numbers line up correctly.
@@ -184,8 +192,11 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Queens](https://www.linkedin.com/games/queens) - Place one crown per row, column and colour region without any two touching.
 - [Regexle](https://regexle.com/) - A hexagonal crossword where every line is a regular expression you have to satisfy.
 - [Shikaku of the Day](https://shikakuofthe.day/) - Cut a grid into rectangles so that each one contains exactly one number equal to its area.
+- [Shinro Garden](https://shinro-garden.daily-game.page/) - Plant 12 flowers using the arrow and count clues.
 - [Sudoku (NYT)](https://www.nytimes.com/puzzles/sudoku) - Easy, medium and hard grids refreshed every day, free to play.
+- [Sunset](https://sunset.daily-game.page/) - Find the six sets hidden in the board.
 - [Tango](https://www.linkedin.com/games/tango) - Balance suns and moons across a grid under equality and difference constraints.
+- [WitLocked Daily Lock](https://witlocked.com/puzzles/daily-lock) - Search an illustrated story scene for clues and connect them to crack a new escape-room-style lock each day.
 - [Zebra Puzzles](https://www.zebrapuzzles.com/) - The classic "who owns the fish" constraint puzzle, generated fresh each day.
 - [Zip](https://www.linkedin.com/games/zip) - Draw one continuous path that hits every numbered dot in order and fills the board.
 
@@ -236,6 +247,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [MeloGuessr](https://meloguessr.com/) - GeoGuessr's format applied to sheet music and melodies.
 - [Perfect Pitch Puzzle](https://www.perfectpitchpuzzle.com/) - An ear-training daily that turns interval recognition into a scored puzzle.
 - [Relatle](https://relatle.io/) - Travel from one artist to another through related-artist links in as few hops as possible.
+- [Sound of Sliver](https://soundofsliver.com/) - Name ten tunes on a daily theme, each from a 300ms slice; a wrong pick buys a longer listen for fewer points.
 - [Spotle](https://spotle.io/) - Deduce the mystery artist from genre, popularity, debut year and country clues.
 
 ## 🎬 Movies & TV
@@ -298,10 +310,12 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [FoodGuessr](https://www.foodguessr.com/) - Name the country a dish comes from, three plates a day.
 - [Google Feud](https://googlefeud.com/) - Complete the search query the way the rest of the internet did.
 - [Jeopardy! J6](https://www.jeopardy.com/play/j6) - Six official Jeopardy! clues a day, in ascending difficulty.
+- [Nanizo](https://nanizo.com/en/daily/) - Ten trivia questions a day, the same for everyone and one try only, scored on accuracy and speed with world and country leaderboards.
 - [On the Record](https://www.washingtonpost.com/news-quiz) - The Washington Post's daily news quiz.
 - [Rankle](https://www.rankle.app/) - Put five things in the correct order — by size, date, price or whatever the day demands.
 - [Revealed](https://www.britannica.com/games/revealed) - Britannica's daily: an image is uncovered piece by piece as the clues get easier.
 - [riddl.ing](https://riddl.ing/) - One lateral-thinking riddle a day, with hints if you get stuck.
+- [Shople](https://playshople.com/) - Guess the mystery brand in ten tries; each guess compares headquarters, founding year, industry, revenue and more against the answer.
 - [Thrice](https://thrice.geekswhodrink.com/) - Three questions, three guesses each, from the people behind Geeks Who Drink pub quizzes.
 - [Tightrope](https://www.britannica.com/quiz/tightrope) - Keep answering correctly to stay on the wire; one slip ends the run.
 - [The Wiki Game Daily](https://www.thewikigamedaily.com/) - Race from one Wikipedia article to another using only in-article links.
@@ -312,6 +326,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 
 - [Artle](https://www.nga.gov/artle.html) - The National Gallery of Art shows you four works; name the artist who made them.
 - [Angle](https://angle.wtf/) - Estimate the angle in degrees, with warmer and colder feedback.
+- [Ballpark](https://ballparkdaily.com/) - Answer five daily number questions with a range on a log slider; a tighter range that still contains the answer scores more.
 - [Chroma](https://robson.plus/chroma) - Reproduce the target colour by mixing your own.
 - [Colorecall](https://www.colorecall.com/) - Two shapes, two colors, one intense memory challenge testing your color recall.
 - [Colorfle](https://colorfle.com/) - Guess the exact colour by blending three of your own in Wordle-style rounds.
@@ -321,9 +336,11 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Guess The House](https://guessthe.house/) - Estimate what a real listed property sold for.
 - [Guess The Logo](https://guessthelogo.wtf/) - Name the brand from a partially obscured logo.
 - [Hexcodle](https://www.hexcodle.com/) - Guess the hex code of a displayed colour, digit by digit.
+- 💰 [How expensive?](https://howexpensive.roughly.is/) - Guess what an item cost in a given country and year, then see the official historical price and how far off you were.
 - [Picsey](https://picsey.io/) - Identify an image from a handful of colour-sampled pixels.
 - [Play Higher Lower](https://playhigherlower.com/daily) - Guess which of two real-world numbers is bigger, from box office grosses to country populations, across a shared daily board.
 - [Scrandle](https://scrandle.com/) - Two foods head to head, and you have to call which one packs more calories.
+- [SizeGuess](https://sizeguess.com/) - Resize real-world objects against a known reference over five daily rounds, then see the true measurement and how close you got.
 - [Spot the Differences](https://www.spot-differences.com/) - A new pair of near-identical images every day.
 
 ## 🔬 Science & Nature
