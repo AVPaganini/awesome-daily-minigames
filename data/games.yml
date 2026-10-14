@@ -1407,6 +1407,12 @@
   description: Guess what an item cost in a given country and year, then see the official historical price and how far off you were.
   tags: [paywalled]
 
+- name: Meccha Chameleon
+  url: https://kmufti.com/chameleon/
+  category: visual
+  platform: web
+  description: Find a blank 3D figure camouflaged somewhere in the daily photo, scored on how fast and in how few clicks you spot it.
+
 - name: Picsey
   url: https://picsey.io/
   category: visual
