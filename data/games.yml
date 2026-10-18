@@ -556,6 +556,12 @@
   platform: web
   description: A daily math puzzle where you grow a factor/sum tree to reach the target number.
 
+- name: Bulkle
+  url: https://www.outletpicks.com/bulkle
+  category: numbers-math
+  platform: web
+  description: Five real Amazon products a day, each in two to four pack sizes — pick the size that costs least per unit.
+
 - name: Mathler
   url: https://www.mathler.com/
   category: numbers-math
@@ -606,6 +612,12 @@
   platform: web
   description: Place dominoes so every marked region satisfies its sum, equality or inequality rule.
   tags: [nyt]
+
+- name: Alembic
+  url: https://goblinarcade.com/play/alembic
+  category: logic
+  platform: web
+  description: Combine Fire, Water, Earth and Air to reach the day's target element in as few brews as possible, with par for Gold.
 
 - name: ArrowGame
   url: https://arrowgame.app/
@@ -681,6 +693,12 @@
   category: logic
   platform: web
   description: Rotate irregular pieces until they tile the board exactly.
+
+- name: Goblin Maze
+  url: https://goblinarcade.com/play/goblin-maze
+  category: logic
+  platform: web
+  description: Steer a ball through the day's shared maze to grab the key and reach the exit, scored against the shortest route.
 
 - name: Ink Side Down
   url: https://arkai.win/games/ink-side-down/
@@ -1370,12 +1388,6 @@
   platform: reddit
   description: Reddit game where players recreate a displayed color name.
 
-- name: Bulkle
-  url: https://www.outletpicks.com/bulkle
-  category: numbers-math
-  platform: web
-  description: Five real Amazon products a day, each in two to four pack sizes — pick the size that costs least per unit.
-
 - name: Costcodle
   url: https://costcodle.com/
   category: visual
@@ -1724,13 +1736,3 @@
   category: hubs
   platform: web
   description: Free crosswords, Keyword, Wridges and the daily news quiz.
-- name: Goblin Maze
-  url: https://goblinarcade.com/play/goblin-maze
-  category: logic
-  platform: web
-  description: Steer a ball through the day's shared maze to grab the key and reach the exit, scored against the shortest route.
-- name: Alembic
-  url: https://goblinarcade.com/play/alembic
-  category: logic
-  platform: web
-  description: Combine Fire, Water, Earth and Air to reach the day's target element in as few brews as possible, with par for Gold.

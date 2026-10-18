@@ -2,7 +2,7 @@
 
 > A curated list of games that give you one puzzle a day and then politely ask you to come back tomorrow.
 
-Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **273 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
+Wordle proved something small: a puzzle everybody gets exactly one of, at the same time, with a spoiler-free way to brag about it. Hundreds of games have been built on that shape since — some brilliant, most forgettable. This list is the curated cut: **276 games across 18 categories**, including **20 that you play inside a Reddit post** without ever leaving the app.
 
 Every entry is free to start playing, resets on a daily cadence, and is short enough to finish before your coffee goes cold.
 
@@ -156,6 +156,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 > Equations, arithmetic and number sense, one puzzle a day.
 
 - [Numgrove](https://numgrove.com/) - A daily math puzzle where you grow a factor/sum tree to reach the target number.
+- [Bulkle](https://www.outletpicks.com/bulkle) - Five real Amazon products a day, each in two to four pack sizes — pick the size that costs least per unit.
 - [Mathler](https://www.mathler.com/) - Find the hidden calculation that produces the given target number.
 - [Nerdle](https://nerdlegame.com/) - Wordle for equations — guess the hidden eight-character sum, operators included.
 - [Numble](https://numble.wtf/) - Route through a grid of numbers and operators to hit the day's target.
@@ -169,6 +170,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 > Sudoku, nonograms, pathfinders and pure deduction grids.
 
 - [Pips](https://www.nytimes.com/games/pips) - Place dominoes so every marked region satisfies its sum, equality or inequality rule.
+- [Alembic](https://goblinarcade.com/play/alembic) - Combine Fire, Water, Earth and Air to reach the day's target element in as few brews as possible, with par for Gold.
 - [ArrowGame](https://arrowgame.app/) - Tap arrows off the board only once their exit path is clear, with a shared daily Boss puzzle alongside a 1,000-level campaign.
 - [Balance Grid](https://playbalancegrid.com/daily/) - Fill a daily 6x6 grid with three Light and three Dark cells per line, no triples and no duplicate lines; each puzzle has exactly one solution.
 - 🟠 [Binarygrid](https://www.reddit.com/r/Binarygrid/) - Binairo-style number logic — fill the grid with two symbols under balance and adjacency rules.
@@ -181,6 +183,7 @@ Missing something, or found one that has gone dark? Adding an entry is a five-li
 - [Domino Fit](https://dominofit.isotropic.us/) - Pack dominoes into an awkward grid so that the numbers line up correctly.
 - [Figure](https://figure.game/) - Clear a colour grid in a fixed number of moves by chaining matching tiles.
 - [Flipart](https://www.puzzmo.com/play/flip-art) - Rotate irregular pieces until they tile the board exactly.
+- [Goblin Maze](https://goblinarcade.com/play/goblin-maze) - Steer a ball through the day's shared maze to grab the key and reach the exit, scored against the shortest route.
 - [Ink Side Down](https://arkai.win/games/ink-side-down/) - Roll a cube across a grid; the side that's inked prints the square it lands face-down on, and ink may only touch the marked squares.
 - 💰 [Lie of Sight](https://lieofsight.com/) - Move a family around a room to test what each says they saw, then accuse the one whose story can't be true.
 - [Murdle](https://murdle.com/) - A daily murder mystery solved with a logic grid — suspect, weapon, location, motive.
